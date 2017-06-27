@@ -1,0 +1,16 @@
+.keywordDisplay-grid {
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    width: 80px;
+    height: 35px;
+}
+
+.keywordDisplay-row {
+    border: 1px solid black;
+}
+
+.keywordDisplay-cell {
+    border: 1px solid black;
+}

@@ -1,0 +1,45 @@
+.Encoding-label {
+    border-bottom: 2px solid grey;
+    font-size: 30px;
+    color: grey;
+}
+
+.SourceText-label {
+    font-size: 20px;
+    display: block;
+}
+
+.CipherText-label {
+    font-size: 20px;
+    display: block;
+}
+
+.Encoding-grid {
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 10px;
+
+}
+
+.Encoding-cell {
+    border: 1px solid black;
+}
+
+.alphabet-btn {
+    border: 1px solid grey;
+    background-color: white;
+}
+
+.CipherText-input {
+    background-color: #c2d6d6;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.SourceText-input {
+    background-color: #c2d6d6;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-right: 5px;
+}

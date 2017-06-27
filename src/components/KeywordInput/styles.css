@@ -1,0 +1,16 @@
+.config-label {
+    border-bottom: 2px solid grey;
+    font-size: 30px;
+    color: grey;
+
+}
+
+.keyword-label {
+    font-size: 20px;
+}
+
+.keyword-input {
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-right: 5px;
+}
