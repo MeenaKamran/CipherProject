@@ -1,0 +1,20 @@
+#Common
+/logs/
+/bin/
+/node_modules/
+/build
+
+#Idea
+.idea/
+
+# Dependency directories
+node_modules/
+
+
+# dotenv environment variables file
+.env
+.idea
+
+#Other
+*.orig
+*.log
